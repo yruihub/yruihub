@@ -12,7 +12,7 @@ Sou um desenvolvedor apaixonado por tecnologia e programação. Tenho experiênc
           
           
 
-[![yruihub GitHub stats](https://github-readme-stats.vercel.app/api?username=yruihub&show_icons=true&theme=radical)
+[![yruihub GitHub stats](https://github-readme-stats.vercel.app/api?username=yruihub&show_icons=true&theme=synthwave)
 )](https://github.com/yruihub/github-readme-stats)
 
 ## 🌍 Encontre-me em
